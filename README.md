@@ -12,7 +12,7 @@ A simple, web-based tool to calculate the **future value of investments** based 
 ## ✨ Features
 
 - 💰 Calculate future investment value with **compound interest**
-- 🔁 Support for **monthly/yearly contributions**
+- 🔁 Support for **yearly contributions**
 - 📱 **Responsive design** for mobile and desktop
 - ⚙️ Built with **HTML, CSS, and Angular**
 
