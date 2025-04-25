@@ -35,6 +35,7 @@ A simple, web-based tool to calculate the **future value of investments** based 
 - **TypeScript**
 
 ---
+🔗 [Live Demo](https://danyelasuzy.github.io/Investment_Calculator/)
 
 ## Getting Started
 
