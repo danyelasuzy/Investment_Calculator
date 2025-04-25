@@ -1,29 +1,46 @@
-📊 Investment Calculator
-A simple web-based tool to calculate the future value of investments based on user inputs like initial amount, interest rate, duration, and contribution frequency.
+# 📊 Investment Calculator
 
-Features
-Calculate future investment value with compound interest
+A simple, web-based tool to calculate the **future value of investments** based on user inputs like:
 
-Support for monthly/yearly contributions
+- Initial amount
+- Interest rate
+- Investment duration
+- Contribution frequency
 
-Responsive design for mobile and desktop
+---
 
-Built with HTML, CSS, and Angular
+## ✨ Features
 
+- 💰 Calculate future investment value with **compound interest**
+- 🔁 Support for **monthly/yearly contributions**
+- 📱 **Responsive design** for mobile and desktop
+- ⚙️ Built with **HTML, CSS, and Angular**
 
-🧮 How It Works
-Enter your initial investment amount.
+---
 
-Set the annual interest rate.
+## 🧮 How It Works
 
-Choose how long you'll invest for.
+1. Enter your **initial investment amount**
+2. Set the **annual interest rate**
+3. Choose your **investment duration** (in years)
+4. Optionally, set **recurring monthly/yearly contributions**
+5. Click **Calculate** to see your results
 
-Optionally, set recurring monthly/yearly contributions.
+---
 
-Click "Calculate" to see your results.
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-HTML5 & CSS3
+- **HTML5 & CSS3**
+- **Angular**
 
-Angular
+---
+
+## Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/danyelasuzy/Investment_Calculator.git
+   cd Investment_Calculator
+   npm install
+   npm start
 
